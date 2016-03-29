@@ -1,0 +1,2 @@
+export COOKIE=overridden
+NOTEXPORTED=notexportedbutoverridden
